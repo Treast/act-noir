@@ -6,20 +6,20 @@
 Act is a contemplative and poetic adaptation of books in VR.
 
 - [Requirements](#requirements)
+- [Libraries](#libraries)
 - [Setup](#setup)
-- [Project](#project-structure)
+- [Project Structure](#project-structure)
 - [Conventions](#conventions)
 - [Rules](#rules)
-- [Librairies](#libraries)
 - [Diagrams](#diagrams)
-- [Credits](#creadits)
+- [Credits](#credits)
 - [License](#license)
 
 ## Requirements
 - Windows 7 SP1+ or newer, 64 bits only.
 - MacOS 10.9+
 
-## Librairies
+## Libraries
 - Unity 2017.3+
 - Google VR SDK 1.130+
 - Google Resonance 1.2.1+
@@ -68,7 +68,7 @@ If you're interrested in creating your own Act project, here some rules that we 
 - An act **must** have between 200 (two hundred) and 400 (four hundred) words.
 
 #### For a condensed story
-- Your story **must** have between 300 (three hundred) and 500 (five hundred) words.
+- Your story **must** have between 500 (five hundred) and 1000 (one thousand) words.
 
 ### Adaptation
 - The story **must** be presented with several mediums (e.g. text, picture, sound, narrator etc...)
@@ -76,13 +76,13 @@ If you're interrested in creating your own Act project, here some rules that we 
 - The story **must** be narrated by an external voice actor.
 - 
 #### For a long story
-- The experiment **must** be around 5 (five) minutes long.
-- The experiment **should** have around 3 interactions with the user.
-
-#### For a condensed story
 - The experiment **should** be below 15 (fifteen) minutes long.
 - Each act **must** be around 4 (four) minutes long.
 - Each act **should** have 1 or 2 interactions.
+
+#### For a condensed story
+- The experiment **must** be between 5 (five) and 8 (eight) minutes long.
+- The experiment **should** have around 3 interactions with the user.
 
 #### Animations
 - Interactions **must** be based on vision (e.g. not using the Cardboard button).
